@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Eero
 
 Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** eager to build impactful solutions and collaborate on exciting projects. I'm currently seeking full-time opportunities to contribute to dynamic teams and further develop my skills.
 

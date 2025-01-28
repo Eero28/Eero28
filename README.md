@@ -36,4 +36,15 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** eager to
 
 ---
 
-> ⭐ Feel free to explore my repositories and reach out for collaboration or full-stack opportunities. Let's build something amazing together!
+## 🚧 Current Projects
+
+### **Review App**  
+I'm currently building a **Review App** to help users leave feedback on products. The app includes features like:
+- User authentication and profiles
+- Review submission and management
+- Rating reviews
+- Commenting on other people's reviews
+
+This project is a great opportunity for me to apply my skills in **React Native**, **NestJS**, **PostgreSQL**, and **TypeScript**
+
+⭐ Feel free to explore my repositories and reach out for collaboration or full-stack opportunities. Let's build something amazing together!

@@ -20,8 +20,6 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** eager to
 - **SQL**: PostgreSQL, MySQL
 - **NoSQL**: MongoDB, Firebase
 
-### Library
-
 ### DevOps & Tools
 
 - **Containerization & Cloud**: Docker, AWS, Azure  

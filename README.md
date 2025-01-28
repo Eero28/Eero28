@@ -10,14 +10,17 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** eager to
 
 - JavaScript, TypeScript, Python, C#, Kotlin 
 
-### Frameworks:
+### Frameworks & Libraries:
 
-- ReactJS, React Native, NodeJS, ExpressJS 
+- **Frameworks**: ReactJS, React Native, NodeJS, ExpressJS
+- **Data Analysis & Machine Learning**: Pandas, Anaconda, TensorFlow
 
 ### Databases:
 
 - **SQL**: PostgreSQL, MySQL
 - **NoSQL**: MongoDB, Firebase
+
+### Library
 
 ### DevOps & Tools
 

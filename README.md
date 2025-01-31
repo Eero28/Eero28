@@ -31,8 +31,8 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** eager to
 
 ## 📬 Let's Connect
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/eero-kantonen-7389a3209/)
-- **Email**: [your.email@example.com](mailto:eero.kantonen11@gmail.com)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/eero-kantonen-7389a3209/)
+- **Email**: [eero.kantonen11@gmail.com](mailto:eero.kantonen11@gmail.com)
 
 ---
 

@@ -47,4 +47,3 @@ I'm currently building a **Review App** to help users leave feedback on products
 
 This project is a great opportunity for me to apply my skills in **React Native**, **NestJS**, **PostgreSQL**, and **TypeScript**
 
-⭐ Feel free to explore my repositories and reach out for collaboration or full-stack opportunities. Let's build something amazing together!

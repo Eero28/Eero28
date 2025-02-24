@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** eager to
 
 - **Containerization & Cloud**: Docker, AWS, Azure  
 - **CI/CD & Version Control**: GitHub Actions, Git  
-- **Scripting & Automation**: Bash, PowerShell  
+- **Scripting & Automation**: Bash, PowerShell, Python  
 - **Collaboration & Development**: Postman, Figma, VS Code, Visual Studio
 
 ---

@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Eero
 
-Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** eager to build impactful solutions and collaborate on exciting projects. I'm currently seeking full-time opportunities to contribute to dynamic teams and further develop my skills.
+Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** eager to build impactful solutions and collaborate on exciting projects. I'm currently seeking full-time opportunities to level up my skills.
 
 ---
 
@@ -12,12 +12,12 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** eager to
 
 ### Frameworks & Libraries:
 
-- **Frameworks**: ReactJS, React Native, NodeJS, ExpressJS
+- **Frameworks**: ReactJS, React Native, NextJS, NodeJS, ExpressJS, NestJS, .NET, 
 - **Data Analysis & Machine Learning**: Pandas, Anaconda, TensorFlow
 
 ### Databases:
 
-- **SQL**: PostgreSQL, MySQL
+- **SQL**: PostgreSQL, MySQL, Supabase
 - **NoSQL**: MongoDB, Firebase
 
 ### DevOps & Tools
@@ -42,8 +42,9 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** eager to
 I'm currently building a **Review App** to help users leave feedback on products. The app includes features like:
 - User authentication and profiles
 - Review submission and management
+- Search reviews
 - Rating reviews
-- Commenting on other people's reviews
+- Commenting on other people's reviews and able to reply to comments
 
 This project is a great opportunity for me to apply my skills in **React Native**, **NestJS**, **PostgreSQL**, and **TypeScript**
 

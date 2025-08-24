@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Eero
 
-Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** eager to build impactful solutions and collaborate on exciting projects. I'm currently seeking full-time opportunities to level up my skills.
+Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** eager to build impactful solutions and collaborate on exciting projects. I'm currently seeking full-time opportunities to level up my skills. Mostly i make Full-Stack apps with typescript, but i can also use python and C# 
 
 ---
 
